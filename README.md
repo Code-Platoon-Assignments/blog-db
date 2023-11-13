@@ -1,6 +1,6 @@
 # Blog Schema
 
-See [cars database](https://github.com/echoplatoonew/cars_database) for reference.  
+See [cars database](https://github.com/code-platoon-assignments/cars_database) for reference.  
 
 Dummy data was generated from [https://www.mockaroo.com/](https://www.mockaroo.com/).
 
